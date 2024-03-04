@@ -1,4 +1,4 @@
-This Matlab code is from "Yingjun Ma, Junjiang Zhong, Nenghui Zhu. Weighted hypergraph learning and adaptive inductive matrix completion for SARS-CoV-2 drug repositioning  [J]. The Methods, 2023, (219), 102-110. The Doi: 10.1016 / j.y meth. 2023.10.002. ", 
+This Matlab code is from "Yingjun Ma, Junjiang Zhong, Nenghui Zhu. Weighted hypergraph learning and adaptive inductive matrix completion for SARS-CoV-2 drug repositioning  [J]. Methods, 2023, (219), 102-110. The Doi: 10.1016 / j.y meth. 2023.10.002. ", 
 if the reference the code, please refer to the corresponding literature.
 (Written by Yingjun Ma 2023)
 
